@@ -19,13 +19,11 @@ I'm a passionate full-stack developer with experience across multiple technologi
 
 ## 📌 Featured Projects
 
-- **Project Name** – Short description of what the project does  
-- **Project Name** – Short description of what the project does  
+- **Frame Web** – Web Development • Digital Solutions
 
 ## 📫 Get in Touch
 
-- **GitHub:** https://github.com/your-username  
-- **LinkedIn:** https://linkedin.com/in/your-profile  
-- **Email:** your-email@example.com  
+- **GitHub:** https://github.com/vvortexxz  
+- **Discord:** vortexxh_
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me.
